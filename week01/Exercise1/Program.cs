@@ -1,7 +1,7 @@
 using System;
 
 class Program
-{
+{ //ASk the user for their name.
     static void Main(string[] args)
     {
         Console.Write("What is your first name? ");
